@@ -1,0 +1,14 @@
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.exe
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.deps.json
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.runtimeconfig.json
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.runtimeconfig.dev.json
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.dll
+D:\ATM App\ATM App\ATM App\bin\Debug\netcoreapp3.1\ATM App.pdb
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.csproj.AssemblyReference.cache
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.AssemblyInfoInputs.cache
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.AssemblyInfo.cs
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.csproj.CoreCompileInputs.cache
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.dll
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.pdb
+D:\ATM App\ATM App\ATM App\obj\Debug\netcoreapp3.1\ATM App.genruntimeconfig.cache
